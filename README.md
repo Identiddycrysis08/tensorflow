@@ -1,2 +1,2 @@
 # tensorflow
-idfk  im gonna mess w tensor flow
+idfk  im gonna mess w torch
